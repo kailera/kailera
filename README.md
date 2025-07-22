@@ -22,10 +22,10 @@ Busco oportunidades para criar sistemas que geram valor imediato para empresas e
 - [🔧 Dumptool](https://youtu.be/OuqER78L4Zs)  
   Sistema de gerenciamento de caçambas com agendamentos, rastreio e controle operacional.
 
- -[🦜Twitter / X Sentiment](https://github.com/kailera/twittersentiment.git)
+- [🦜Twitter / X Sentiment](https://github.com/kailera/twittersentiment.git)
   Analise de como um tópico, marca ou assunto é encarado em mídia social
 
-  -[📖 Conceitos em Engenharia de Software](https://github.com/kailera/softwareEnginneringCoreConcepts.git)
+- [📖 Conceitos em Engenharia de Software](https://github.com/kailera/softwareEnginneringCoreConcepts.git)
   Repositório de matérias e projetos de fixação em pontos chave em Engenharia de Software
 
   ## 📈 Estatísticas GitHub:
