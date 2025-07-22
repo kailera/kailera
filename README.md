@@ -36,7 +36,8 @@ Busco oportunidades para criar sistemas que geram valor imediato para empresas e
 
 ## 📬 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/samuel-ferreira-da-costa-kail1999/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](linkedin.com/in/samuel-ferreira-da-costa-025b72199 )
+)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:ferreirasamuel459@gmail.com)
 
 <!--
