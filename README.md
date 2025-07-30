@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Samuel Ferreira!
+ 👋 Olá, eu sou o Samuel Ferreira!
 
 Desenvolvedor Full Stack | Focado em soluções reais e escaláveis 🚀  
 
@@ -6,6 +6,30 @@ Desenvolvedor Full Stack | Focado em soluções reais e escaláveis 🚀
 Sou estudante de Engenharia de Software e atuo como desenvolvedor Full Stack.  
 Tenho experiência em Next.js, Node.js, TypeScript, PostgreSQL e automações inteligentes.  
 Busco oportunidades para criar sistemas que geram valor imediato para empresas e usuários.
+
+## 🚀 Portfólio:
+
+- [🔧 Dumptool](https://youtu.be/OuqER78L4Zs)  
+  Sistema de gerenciamento de caçambas com agendamentos, rastreio e controle operacional.
+
+- [🦜Twitter / X Sentiment](https://github.com/kailera/twittersentiment.git)
+  Análise de como um tópico, marca ou assunto é encarado em mídia social
+
+- [🖼️Landing Page para Escritório](https://github.com/kailera/office-space.git)
+  
+![view holistic dark](https://github.com/user-attachments/assets/ba219302-a32d-4586-9f9a-204fd2f4a51e)#
+Página do desafio Holistic Office By Axero promovido pela Dev Community
+
+
+## 🧪Projetos de Aprendizado
+
+- [📖 Conceitos em Engenharia de Software](https://github.com/kailera/softwareEnginneringCoreConcepts.git)
+  Repositório de matérias e projetos de fixação em pontos chave em Engenharia de Software
+
+
+## ✏️Projetos Acadêmicos
+
+
 
 ## 🛠️ Tecnologias que trabalho:
 
@@ -17,18 +41,10 @@ Busco oportunidades para criar sistemas que geram valor imediato para empresas e
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
 
-## 🚀 Projetos em destaque:
 
-- [🔧 Dumptool](https://youtu.be/OuqER78L4Zs)  
-  Sistema de gerenciamento de caçambas com agendamentos, rastreio e controle operacional.
 
-- [🦜Twitter / X Sentiment](https://github.com/kailera/twittersentiment.git)
-  Analise de como um tópico, marca ou assunto é encarado em mídia social
 
-- [📖 Conceitos em Engenharia de Software](https://github.com/kailera/softwareEnginneringCoreConcepts.git)
-  Repositório de matérias e projetos de fixação em pontos chave em Engenharia de Software
-
-  ## 📈 Estatísticas GitHub:
+## 📈 Estatísticas GitHub:
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=kailera&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailera&layout=compact&theme=radical)
